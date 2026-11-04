@@ -1,0 +1,6 @@
+{
+  "name": "Hisab Khata - Expense Tracker",
+  "description": "ব্যক্তিগত জমা খরচের বিস্তারিত হিসাব, আয়ের উৎস, ব্যয়ের বিবরণ ও চলতি মাসের ড্যাশবোর্ড।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

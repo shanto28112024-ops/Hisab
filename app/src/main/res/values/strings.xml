@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hisab Khata - Expense Tracker</string>
+    <string name="total_income">মোট আয়</string>
+    <string name="total_expenses">মোট ব্যয়</string>
+    <string name="remaining_balance">অবশিষ্ট ব্যালেন্স</string>
+    <string name="currency_symbol">৳</string>
+</resources>
